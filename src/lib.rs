@@ -16,9 +16,13 @@
 ///     2: invalid digit found in string
 /// ```
 ///
-/// For more information, see [Modular Errors in Rust].
+/// For more information, see:
+///
+/// - [Modular Errors in Rust]
+/// - [little-anyhow]
 ///
 /// [modular errors in rust]: https://sabrinajewson.org/blog/errors#guidelines-for-good-errors
+/// [little-anyhow]: https://github.com/EricCrosson/little-anyhow
 ///
 /// # Examples
 ///
