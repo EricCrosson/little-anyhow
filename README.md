@@ -10,7 +10,7 @@ This snippet helps you write low-dependency Rust binaries without your users not
 ## Install
 
 **little-anyhow** is intentionally not published to [crates.io] -- that would defeat the point!
-It's not that the goal is use dependencies without transitive dependencies, or dependencies that never require updates.
+It's not that the goal is to use dependencies without transitive dependencies, or dependencies that never require updates.
 The goal is to enable you to write ergonomic Rust binaries without _any_ dependencies!
 
 Consequently, **little-anyhow** should be vendored in your binary crate:
