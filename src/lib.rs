@@ -7,7 +7,7 @@
 ///
 /// Error messages look like:
 ///
-/// ```ignore
+/// ```text
 /// Error: error reading `Blocks.txt`
 ///
 /// Caused by:
