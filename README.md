@@ -1,9 +1,5 @@
 # little-anyhow
 
-[![Build Status]](https://github.com/EricCrosson/little-anyhow/actions/workflows/release.yml)
-
-[build status]: https://github.com/EricCrosson/little-anyhow/actions/workflows/release.yml/badge.svg?event=push
-
 **little-anyhow** is a vendorable error type with anyhow-style stack traces.
 This snippet helps you write low-dependency Rust binaries without your users noticing.
 
